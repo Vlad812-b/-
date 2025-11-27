@@ -1,0 +1,21 @@
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.AssemblyInfoInputs.cache
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.AssemblyInfo.cs
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.csproj.CoreCompileInputs.cache
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.csproj.AssemblyReference.cache
+C:\Proekt_Kozevnikov\VotingApp\bin\Debug\net8.0-windows\VotingApp.exe
+C:\Proekt_Kozevnikov\VotingApp\bin\Debug\net8.0-windows\VotingApp.deps.json
+C:\Proekt_Kozevnikov\VotingApp\bin\Debug\net8.0-windows\VotingApp.runtimeconfig.json
+C:\Proekt_Kozevnikov\VotingApp\bin\Debug\net8.0-windows\VotingApp.dll
+C:\Proekt_Kozevnikov\VotingApp\bin\Debug\net8.0-windows\VotingApp.pdb
+C:\Proekt_Kozevnikov\VotingApp\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Proekt_Kozevnikov\VotingApp\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.csproj.Up2Date
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.dll
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\refint\VotingApp.dll
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.pdb
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.genruntimeconfig.cache
+C:\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\ref\VotingApp.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Кожевников\Proekt_Kozevnikov\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Кожевников\Proekt_Kozevnikov\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\refint\VotingApp.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33\Отчеты ИСП 33 УП ПМ.03\Решение УП ПМ.03\Кожевников\Proekt_Kozevnikov\Proekt_Kozevnikov\VotingApp\obj\Debug\net8.0-windows\VotingApp.pdb
